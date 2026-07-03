@@ -34,7 +34,7 @@ requirements.txt
 ## Dataset
 
 The dataset is **not included** in this repository.
-Further Information about the dataset is given in the file "requirements.txt"
+Information about all the Python packages are given in "requirements.txt"
 
 ## Results
 
